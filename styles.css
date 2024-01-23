@@ -1,0 +1,19 @@
+
+body{
+    background-image: linear-gradient(to top,red,red,red,blue,blue,blue,yellow,yellow,green,green,green,purple,purple,purple);
+    background-repeat: no-repeat;
+    font-size: 40pt;
+    color: white;
+    font-family: 'Cascadia Code', sans-serif;                   
+}
+.Heading{
+    font-size: 70pt;
+    color: white;
+    background-color: black;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Super Submarine', sans-serif;                                  
+}
+.point_4{
+    color: black;
+}
